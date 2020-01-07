@@ -2,6 +2,7 @@
   "name": "js-axmnye",
   "version": "0.0.0",
   "private": true,
+  "start": "server.js",
   "dependencies": {
     "express": "^4.17.1"
   }
